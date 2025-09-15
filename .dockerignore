@@ -1,0 +1,22 @@
+# Maven target build output
+/target
+
+# VCS
+.git
+.gitignore
+
+# IDEs and tooling
+.idea
+.vscode
+*.iml
+
+# OS
+.DS_Store
+
+# Node/npm (in case any is added later)
+node_modules
+npm-debug.log
+yarn.lock
+
+# Env files
+.env
